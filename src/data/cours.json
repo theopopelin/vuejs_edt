@@ -1,0 +1,45 @@
+{
+  "name": "IIM",
+  "cours": [
+    {
+      "room": "001",
+      "name": "Javascript",
+      "teacher": "S. Jobs",
+      "time": "4",
+      "cancelled": "no"
+
+    },
+    {
+      "room": "005",
+      "name": "Big Data",
+      "teacher": "A. Bougy",
+      "time": "2",
+      "cancelled": "no"
+
+    },
+    {
+      "room": "011",
+      "name": "Symfony",
+      "teacher": "Z. Zidane",
+      "time": "3",
+      "cancelled": "yes"
+
+    },
+    {
+      "room": "007",
+      "name": "Machine Learning",
+      "teacher": "B. Ross",
+      "time": "2",
+      "cancelled": "no"
+
+    },
+    {
+      "room": "010",
+      "name": "Laravel",
+      "teacher": "N. Robert",
+      "time": "2",
+      "cancelled": "no"
+
+    }
+  ]
+}
